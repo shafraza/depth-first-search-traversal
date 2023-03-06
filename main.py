@@ -1,7 +1,5 @@
 # Graph Data Structure and DFS Traversal
 # By Shafaqat Ali (@shafraza)
-
-
 # Class definition for a graph data structure
 class Graph:
     # Constructor to initialize the graph
